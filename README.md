@@ -1,2 +1,1 @@
-# mquantum
-MATLAB SDK for Quantum Computing
+![](MQuantum.png)
